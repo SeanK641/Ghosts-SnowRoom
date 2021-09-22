@@ -1,0 +1,16 @@
+{
+"companyName": "David Maxwell",
+"productName": "GhØsts",
+"productVersion": "0.2",
+"dataUrl": "Snow Room.data.unityweb",
+"wasmCodeUrl": "Snow Room.wasm.code.unityweb",
+"wasmFrameworkUrl": "Snow Room.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
